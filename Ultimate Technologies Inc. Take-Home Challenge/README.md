@@ -12,11 +12,9 @@ Notebooks and Data
 
 Supporting Jupyter Notebooks and datasets used for the analysis are located in the Notebooks and Data folder:
 
-[Part 1 – Exploratory Data Analysis]([url](https://github.com/histopix175/Springboard-Bootcamp/blob/main/Ultimate%20Technologies%20Inc.%20Take-Home%20Challenge/Notebooks%20and%20Data/Part%201%20-%20Ultimate%20Technologies%20Inc.%20Take-Home%20Challenge.ipynb
-)):
+Part 1 – Exploratory Data Analysis:https://github.com/histopix175/Springboard-Bootcamp/blob/main/Ultimate%20Technologies%20Inc.%20Take-Home%20Challenge/Notebooks%20and%20Data/Part%201%20-%20Ultimate%20Technologies%20Inc.%20Take-Home%20Challenge.ipynb
 
-[Part 3 – Predictive Modeling]([url](https://github.com/histopix175/Springboard-Bootcamp/blob/main/Ultimate%20Technologies%20Inc.%20Take-Home%20Challenge/Notebooks%20and%20Data/Part%203%20-%20Ultimate%20Technologies%20Inc.%20Take-Home%20Challenge.ipynb
-)
+Part 3 – Predictive Modeling: https://github.com/histopix175/Springboard-Bootcamp/blob/main/Ultimate%20Technologies%20Inc.%20Take-Home%20Challenge/Notebooks%20and%20Data/Part%203%20-%20Ultimate%20Technologies%20Inc.%20Take-Home%20Challenge.ipynb
 
 Methods Used
 
